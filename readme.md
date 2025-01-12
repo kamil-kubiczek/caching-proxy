@@ -1,9 +1,12 @@
 ## About project
 
-This is a simple implementation of an HTTP proxy that supports in-memory caching, with additional support for writing cache data to a file asynchronously in the background. This helps restore cache when proxy is run again. Proxy is designed to handle only GET requests, other HTTP methods aren't cached.
+This is a simple implementation of an HTTP proxy that supports in-memory caching, with additional support for writing cache data to a file asynchronously in the background. This helps restore cache when proxy is run again. Proxy is designed to handle only GET requests, other HTTP methods aren't cached. Feel free to fork or inspire.
+
+
 
 **Project status: 🟢Ready to use**
 
+**Warning: 🟡Code has not been tested production.**
 
 
 ## Features
