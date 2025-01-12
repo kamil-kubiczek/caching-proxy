@@ -6,7 +6,7 @@ This is a simple implementation of an HTTP proxy that supports in-memory caching
 
 **Project status: 🟢Ready to use**
 
-**Warning: 🟡Code has not been tested production.**
+**Warning: 🟡Code has not been tested production**
 
 
 ## Features
