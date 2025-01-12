@@ -4,13 +4,12 @@ This is a simple implementation of an HTTP proxy that supports in-memory caching
 
 **Project status: 🟢Ready to use**
 
----
+
 
 ## Features
 
 Features provided by CLI and described here - https://roadmap.sh/projects/caching-server
 
----
 
 ## How to run proxy in CLI
 
@@ -27,4 +26,3 @@ Features provided by CLI and described here - https://roadmap.sh/projects/cachin
 **Help**
 If you need help with command options use `node dist/index.js -h`
 
----
