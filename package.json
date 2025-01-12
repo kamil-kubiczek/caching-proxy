@@ -1,0 +1,16 @@
+{
+   "name": "caching-proxy",
+   "version": "0.0.1",
+   "description": "Simple caching proxy",
+   "main": "index.js",
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/kamil-kubiczek/caching-proxy.git"
+   },
+   "author": "Kamil Kubiczek",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/kamil-kubiczek/caching-proxy/issues"
+   },
+   "homepage": "https://github.com/kamil-kubiczek/caching-proxy#readme"
+}
