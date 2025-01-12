@@ -10,6 +10,13 @@ This is a simple implementation of an HTTP proxy that supports in-memory caching
 
 Features provided by CLI and described here - https://roadmap.sh/projects/caching-server
 
+## Installation
+Install npm dependencies
+```
+npm i 
+```
+
+
 
 ## How to run proxy in CLI
 
@@ -18,11 +25,21 @@ Features provided by CLI and described here - https://roadmap.sh/projects/cachin
 -  must have `node 20.x.x` installed
 -  must have `npm@8.19.4 or higher` installed
 
-**Steps**
+**Steps to run**
 
-1. Inside project root directory run `npm run build`
-1. Then run `node dist/index.js -o <origin-url> -p <port>`
+1. Inside project root directory run
+```
+npm run build
+```
 
-**Help**
+2. Then run 
+```
+node dist/index.js -o <origin-url> -p <port>
+```
+Now you can start using proxy!
+
+
+## Help
+
 If you need help with command options use `node dist/index.js -h`
 
